@@ -47,7 +47,6 @@ import (
 	"sigs.k8s.io/external-dns/provider/dyn"
 	"sigs.k8s.io/external-dns/provider/exoscale"
 	"sigs.k8s.io/external-dns/provider/google"
-	"sigs.k8s.io/external-dns/provider/hetzner"
 	"sigs.k8s.io/external-dns/provider/infoblox"
 	"sigs.k8s.io/external-dns/provider/inmemory"
 	"sigs.k8s.io/external-dns/provider/linode"
